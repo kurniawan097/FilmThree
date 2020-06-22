@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Film Submit Three</string>
+    <string name="tab_text_1">FILM</string>
+    <string name="tab_text_2">ACARA TV</string>
+
+    <string name="user_score">Skor Pengguna :</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="first_air_date">Hari Pertama Tayang : </string>
+    <string name="top_cast">Pemain Utama :</string>
+    <string name="overview">Deskripsi</string>
+    <string name="change_language_settings">Pengaturan Ubah Bahasa</string>
+
+
+</resources>
